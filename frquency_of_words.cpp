@@ -2,7 +2,7 @@
 #include<cstring>
 using namespace std;
 char str[]="my name is himanshu my name is hetesh my name is himanshu my name is hetesh hi hi hi hello ";
-
+//hello
 class word
 {
 public:
